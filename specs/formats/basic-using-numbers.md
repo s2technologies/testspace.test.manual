@@ -8,5 +8,5 @@ contain general markdown syntax.
 This is a generic Scenario header that will be used throughout.
 
 
-  * Do this
+  1. Do this
   1. Do that
