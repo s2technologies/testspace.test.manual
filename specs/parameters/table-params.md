@@ -8,6 +8,7 @@ re-used by other scenarios.
 This is a generic Scenario header that will be used throughout.
 
 * Create the following projects
+
      |project name| username |
      |------------|----------|
      | Gauge java | Daredevil|
