@@ -170,6 +170,7 @@ The Testspace server is developed using [Ruby on Rails](http://rubyonrails.org/)
 
 For more information regarding Insights refer to our help documentation [here](https://help.testspace.com/projects:insights).
  
+* At Least One Step
 
 ## Our Model is constantly improving
 
