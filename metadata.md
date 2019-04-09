@@ -1,4 +1,4 @@
-Used to capture different **TEST** configurations
+The file provided example **Metadata** test configurations
 
 Configuration format:
 
@@ -14,6 +14,8 @@ testspace:
         - "**/y*"
 </pre>
 
+### Examples 
+
 #### All
 
 <pre>
@@ -22,7 +24,17 @@ testspace:
 ````
 </pre>
 
-#### Formats Tests
+#### Simple (2 specs)
+
+<pre>
+````
+testspace:
+  specs:
+    path: /specs-simple
+````
+</pre>
+
+#### Formats Tests (folder only)
 
 <pre>
 ````
@@ -31,6 +43,18 @@ testspace:
     path: /specs/formats
 ````
 </pre>
+
+#### Branch (duplicated specs)
+
+<pre>
+````
+testspace:
+  branch: branch-one
+  specs:
+    path: /specs/formats
+````
+</pre>
+
 
 #### Files Only
 
