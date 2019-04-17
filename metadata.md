@@ -10,7 +10,7 @@ testspace:
       exclude_patterns: 
         - "**/x*"
     - path: "/path/to/specsY"
-      exclude_patterns: 
+      ignore: 
         - "**/y*"
 </pre>
 
@@ -63,7 +63,7 @@ testspace:
 testspace:
   specs:
      path: /specs
-     exclude_patterns:
+     ignore:
        - "**/*"
 ```
 </pre>
