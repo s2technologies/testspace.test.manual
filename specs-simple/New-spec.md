@@ -1,4 +1,4 @@
- # Spec1
+# Spec1
 
 The GH Board show automatically find this Spec 
 
