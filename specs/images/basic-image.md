@@ -16,3 +16,5 @@ This is a generic Scenario header that will be used throughout.
 
   * Do this
   * Do that
+
+      ![boards](/images/board.png "Board Image")
