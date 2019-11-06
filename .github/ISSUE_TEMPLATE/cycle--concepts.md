@@ -1,7 +1,7 @@
 ---
 name: 'Cycle: Concepts'
 about: Describe this issue template's purpose here.
-title: ''
+title: Concepts
 labels: Cycle
 assignees: ''
 
