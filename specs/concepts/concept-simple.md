@@ -1,4 +1,4 @@
-# Simple concept
+# Concept simple
 
 Example on how steps, using parameters, can be re-used accross **many steps**. 
 
